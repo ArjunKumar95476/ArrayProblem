@@ -1,5 +1,5 @@
 # ArrayProblem
-<h2 style="color:red">
+
 1.  Reverse the array  <br>
 2.	Find the maximum and minimum element in an array <br>
 3.	Find the "Kth" max and min element of an array  <br>
@@ -36,4 +36,3 @@
 34.	Minimum no. of operations required to make an array palindrome <br>
 35.	Median of 2 sorted arrays of equal size <br>
 36.	Median of 2 sorted arrays of different size <br>
-</h2>
